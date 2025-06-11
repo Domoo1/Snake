@@ -13,7 +13,7 @@
         WindowStartupLocation="CenterScreen"
         PreviewKeyDown="Window_PreviewKeyDown"
         KeyDown="Window_KeyDown">
-    
+
     <Viewbox>
         <Grid>
             <Grid.RowDefinitions>
